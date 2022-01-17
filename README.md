@@ -1,4 +1,4 @@
-#Crypto Tracker
+# Crypto Tracker
 
 A simple crypto tracker I made utilizing the CoinGecko API. This is my first project using an API.
 
